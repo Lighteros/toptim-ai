@@ -47,7 +47,7 @@
           nodes: { telegram: r, extension: r },
           logo: {
             header: "/images/logo/header-logo.png",
-            footer: "/images/logo/footer-logo.svg",
+            footer: "/images/logo/footer-logo.png",
           },
           bento: {
             bento1: "/images/bento/1.svg",
