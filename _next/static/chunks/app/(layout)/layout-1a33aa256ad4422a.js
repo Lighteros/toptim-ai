@@ -274,7 +274,7 @@
                   (0, y.U)(),
                   "lgu:min-h-9 lgu:w-auto lgu:min-w-min lgu:px-2 lgu:text-14 lgu:leading-20"
                 ),
-                href: "https://toptim-ai-app-cs.vercel.app/",
+                href: "https://app.toptimai.pro",
                 children: [
                   (0, i.jsx)("span", { children: "Launch" }),
                   (0, i.jsx)("span", {

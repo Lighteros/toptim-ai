@@ -1393,7 +1393,7 @@
                     children: [
                       (0, s.jsx)("a", {
                         className: (0, o.cn)((0, u.U)({ className: "px-0" })),
-                        href: "https://toptim-ai-app-cs.vercel.app/",
+                        href: "https://app.toptimai.pro",
                         children: "Launch App",
                       }),
                     ],
@@ -1957,7 +1957,7 @@
                     e &&
                       (0, s.jsx)("a", {
                         className: (0, o.cn)((0, u.U)(), "mdu:w-full"),
-                        href: "https://toptim-ai-app-cs.vercel.app/",
+                        href: "https://app.toptimai.pro",
                         children: "Launch App",
                       }),
                     d &&
