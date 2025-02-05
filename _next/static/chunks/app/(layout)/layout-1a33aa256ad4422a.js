@@ -171,6 +171,7 @@
           { label: "Network", href: "/#workflow" },
           { label: "Ecosystem", href: "/#ecosystem" },
           { label: "GenAI Agents", href: "/#agents" },
+          { label: "Docs", href: "https://docs.toptimai.pro" },
         ],
         B = (e) => {
           let { className: t, onItemClick: a, ...l } = e;

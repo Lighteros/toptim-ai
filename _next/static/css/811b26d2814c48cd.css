@@ -15,3 +15,7 @@ html.lenis body {
   pointer-events: none;
 }
 /*# sourceMappingURL=811b26d2814c48cd.css.map*/
+
+.hide {
+  display: none !important;
+}

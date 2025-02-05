@@ -1690,7 +1690,7 @@
           return (0, s.jsxs)(l.Uu, {
             variants: k,
             className:
-              "mt-4 flex w-full max-w-80 items-center justify-between gap-2 md:max-w-140",
+              "mt-4 flex w-full max-w-80 items-center justify-between gap-2 md:max-w-140 hide",
             children: [
               (0, s.jsxs)("div", {
                 className: "flex items-center gap-2",
@@ -1841,8 +1841,8 @@
                       }),
                       (0, s.jsx)("a", {
                         className: (0, o.cn)((0, u.U)({ className: "px-0 mt-6 h-12 w-full max-w-80 leading-none md:mt-7 md:h-14 md:max-w-140 md:text-18" })),
-                        href: "https://alexeys-organization-9.gitbook.io/toptim-ai",
-                        children: "Read Docs",
+                        href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000",
+                        children: "Buy Now",
                       }),
                       (0, s.jsx)(aE, {
                         variants: {
